@@ -1,0 +1,32 @@
+#eventForm {
+    display: flex;
+    flex-flow: column;
+    padding: 1%;
+}
+
+#addEvent {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+}
+
+#addEvent label {
+    display: flex;
+    font-family: sans-serif;
+    padding: .5%;
+    margin: .5%;
+}
+
+#addEvent input {
+    display: flex;
+    padding: .5%;
+    padding-left: .5%;
+    margin: .5%;
+}
+
+#addEvent button {
+    padding: none;
+    margin: none;
+}
