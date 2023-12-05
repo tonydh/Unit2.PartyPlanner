@@ -1,3 +1,7 @@
+#eventContainer li {
+    list-style-type: none;
+}
+
 #eventForm {
     display: flex;
     flex-flow: column;
